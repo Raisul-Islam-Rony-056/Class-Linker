@@ -1,0 +1,1 @@
+gcc Department_Table.c Grade_Table.c Student_Table.c Error.c Ranking.c Display.c main.c -o myprogram && ./myprogram

@@ -1,0 +1,2 @@
+.cbp file is there to directly open it in codeblocks ide.
+The  documentation of the project is given inside the source file.
